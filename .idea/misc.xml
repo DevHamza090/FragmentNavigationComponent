@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ASMSmaliIdeaPluginConfiguration">
+    <asm skipDebug="true" skipFrames="true" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/abc_action_bar_item_background_material.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/abc_btn_borderless_material.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/abc_vector_test.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ad_button_bg.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/avd_hide_password.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/avd_show_password.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/bg_advertiserment.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/bg_circle.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/bg_textview.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/btn_checkbox_checked_mtrl.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/btn_checkbox_unchecked_mtrl.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/btn_radio_off_mtrl.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/btn_radio_off_to_on_mtrl_animation.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/btn_radio_on_mtrl.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/btn_radio_on_to_off_mtrl_animation.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/button_bg.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/card_bg.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/design_fab_background.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/design_ic_visibility.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/design_ic_visibility_off.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/design_snackbar_background.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/edit_text_cursor.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_audio_thumbnail.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_back_arrow.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_boost_up_device_icon.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_clear_text.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_contacts_thumnail.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_docs_thumbnail.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_dropdown.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_mtrl_checked_circle.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_mtrl_chip_checked_black.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_mtrl_chip_checked_circle.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_mtrl_chip_close_circle.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_no_audio_icon.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_no_contact_icon.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_no_docs_icon.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_no_image_icon.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_no_other_icon.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_no_video_icon.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_other_files_thumbnail.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_privacy_icon.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_rate_us_icon.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_scan_duplicate_audio.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_scan_duplicate_contact.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_scan_duplicate_document.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_scan_duplicate_image.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_scan_duplicate_other.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_scan_duplicate_video.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_share_icon.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/ic_theme_icon.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/item_bg.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/material_cursor_drawable.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/material_ic_calendar_black_24dp.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/material_ic_clear_black_24dp.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/material_ic_edit_black_24dp.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/material_ic_keyboard_arrow_left_black_24dp.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/material_ic_keyboard_arrow_right_black_24dp.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/material_ic_menu_arrow_down_black_24dp.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/mtrl_dialog_background.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/mtrl_dropdown_arrow.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/mtrl_ic_arrow_drop_down.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/mtrl_ic_arrow_drop_up.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/mtrl_ic_cancel.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/mtrl_ic_error.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/mtrl_popupmenu_background.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/mtrl_popupmenu_background_overlay.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/mtrl_tabs_default_indicator.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/navigation_empty_icon.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/notification_action_background.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/notification_bg.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/notification_bg_low.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/notification_icon_background.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/notification_tile_bg.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/preference_list_divider_material.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/progress_bar_circular.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/radio_unchecked.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/res_0x7f070000_avd_hide_password__0.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/start_app_drawable.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/storage_bg.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/text_view_bg.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/tooltip_frame_dark.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/drawable/tooltip_frame_light.xml" value="0.1615" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/layout/activity_search_able.xml" value="0.3451086956521739" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/layout/fragment_forth.xml" value="0.36666666666666664" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/layout/fragment_second.xml" value="0.2" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/layout/fragment_third.xml" value="0.18" />
+        <entry key="..\:/Hamza/MyApplicatio/app/src/main/res/xml/searchable.xml" value="0.19322916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
